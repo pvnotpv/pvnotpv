@@ -1,3 +1,3 @@
-### Hi there 
+### Hi
 
 ![:pv](https://counter.max.srl/get/@:pv)
